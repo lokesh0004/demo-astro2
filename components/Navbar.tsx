@@ -15,7 +15,7 @@ export default function Navbar() {
             <Sun size={18} strokeWidth={2} />
           </span>
           <span className="font-heading text-xl leading-none text-maroon-700">
-            Devika Anand
+            vansh Anand
             <span className="block text-[10px] font-body tracking-[0.2em] text-muted">
               ASTROLOGER
             </span>

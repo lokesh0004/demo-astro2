@@ -11,7 +11,7 @@ export default function Footer() {
               <span className="flex h-9 w-9 items-center justify-center rounded-full bg-saffron-600">
                 <Sun size={18} />
               </span>
-              <span className="font-heading text-lg">Devika Anand</span>
+              <span className="font-heading text-lg">vansh Anand</span>
             </a>
             <p className="mt-4 text-sm leading-relaxed text-cream/70">
               Helping people achieve their ambitions through honest, practical
@@ -58,7 +58,7 @@ export default function Footer() {
                 <Phone size={15} /> +91 98765 43210
               </li>
               <li className="flex items-center gap-2">
-                <Mail size={15} /> contact@astrologerdevika.com
+                <Mail size={15} /> contact@astrologervansh.com
               </li>
               <li className="flex items-center gap-2">
                 <Clock size={15} /> All days: 08:00 AM – 09:00 PM
@@ -68,7 +68,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-cream/10 pt-6 text-xs text-cream/50 sm:flex-row">
-          <p>&copy; {new Date().getFullYear()} Astrologer Devika Anand. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Astrologer vansh Anand. All rights reserved.</p>
           <p>Design &amp; Development</p>
         </div>
       </div>

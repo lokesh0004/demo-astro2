@@ -16,13 +16,13 @@ const poppins = Poppins({
   display: "swap",
 });
 
-const siteUrl = "https://astrologer-devika.example.com";
+const siteUrl = "https://astrologer-vansh.example.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Astrologer Devika Anand | Best Astrologer in Delhi NCR",
+  title: "Astrologer vansh Anand | Best Astrologer in Delhi NCR",
   description:
-    "Pandit Devika Anand ji, one of the most trusted astrologers in Delhi NCR. Vedic astrology, kundli matching, career, marriage, gemstone & vastu consultation.",
+    "Pandit vansh Anand ji, one of the most trusted astrologers in Delhi NCR. Vedic astrology, kundli matching, career, marriage, gemstone & vastu consultation.",
   keywords: [
     "best astrologer in delhi",
     "vedic astrologer delhi ncr",
@@ -32,11 +32,11 @@ export const metadata: Metadata = {
     "love marriage astrologer",
   ],
   openGraph: {
-    title: "Astrologer Devika Anand | Best Astrologer in Delhi NCR",
+    title: "Astrologer vansh Anand | Best Astrologer in Delhi NCR",
     description:
       "Trusted Vedic astrology, kundli matching, career, marriage, gemstone & vastu consultation in Delhi NCR.",
     url: siteUrl,
-    siteName: "Astrologer Devika Anand",
+    siteName: "Astrologer vansh Anand",
     type: "website",
   },
   robots: { index: true, follow: true },

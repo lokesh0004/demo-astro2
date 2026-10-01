@@ -40,7 +40,7 @@ export default function About() {
             15 Years Of Guiding People Towards Clarity
           </h2>
           <p className="mt-6 text-center leading-relaxed text-muted lg:text-left">
-            Astrologer Devika Anand needs no introduction in the field of
+            Astrologer vansh Anand needs no introduction in the field of
             Vedic Astrology, Numerology and Vastu Shastra. She is not only an
             astrologer but also a well-known Vastu advisor, guiding thousands
             of families and professionals towards better decisions.

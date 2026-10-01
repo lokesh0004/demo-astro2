@@ -8,8 +8,8 @@ export default function TopBar() {
           <a href="tel:+919876543210" className="flex items-center gap-1.5 hover:text-gold-400">
             <Phone size={12} /> +91 98765 43210
           </a>
-          <a href="mailto:contact@astrologerdevika.com" className="flex items-center gap-1.5 hover:text-gold-400">
-            <Mail size={12} /> contact@astrologerdevika.com
+          <a href="mailto:contact@astrologervansh.com" className="flex items-center gap-1.5 hover:text-gold-400">
+            <Mail size={12} /> contact@astrologervansh.com
           </a>
         </div>
         <div className="flex items-center gap-4">

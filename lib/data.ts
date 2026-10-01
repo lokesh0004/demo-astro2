@@ -41,7 +41,7 @@ export const testimonials = [
     name: "Rashmi Nager",
     location: "Texas, USA",
     quote:
-      "I was introduced to Astrologer Devika ji through my elder sister. Her guidance brought positive results in my legal matters. Truly grateful for her timely support.",
+      "I was introduced to Astrologer vansh ji through my elder sister. Her guidance brought positive results in my legal matters. Truly grateful for her timely support.",
   },
   {
     name: "Prashant Kumar",
@@ -65,8 +65,8 @@ export const testimonials = [
 
 export const faqs = [
   {
-    q: "Who is Astrologer Devika Anand?",
-    a: "Astrologer Devika Anand is a Vedic astrology practitioner with over 10 years of experience, helping thousands of clients across India and abroad with career, marriage, health and financial guidance.",
+    q: "Who is Astrologer vansh Anand?",
+    a: "Astrologer vansh Anand is a Vedic astrology practitioner with over 10 years of experience, helping thousands of clients across India and abroad with career, marriage, health and financial guidance.",
   },
   {
     q: "When did you start providing astrology services?",
